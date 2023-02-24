@@ -1,7 +1,9 @@
-git config --global user.name "José Antonio Gallo Junior"
-git config --global user.email "gallojunior@gmail.com"
+cd desktop
 
-git clone https://github.com/gallojunior/Pokedex-3EtimA.git
+git config --global user.name "gabi"
+git config --global user.email "nicoletigabriela2@gmail.com"
+
+git clone https://github.com/gabs-n/pokedex.git
 
 /* Apenas caso vc não tenha criado o GitIgnore no Repositório */ já
 dotnet new gitignore
